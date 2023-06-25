@@ -1961,6 +1961,11 @@ footer .der a:hover
     {
         font-size: .8rem;
     }
+    #ventana-d a
+{
+    height: 40px;
+    font-size: .8rem;
+}
 .section-1
 {
     height: 800px;
@@ -2015,7 +2020,7 @@ footer .der a:hover
 }
     .section-1 .texto
 {
-    margin-top: 10px;
+    padding-top: 100px;
     width: 100%;
     height: auto;
     margin-top: 30px;
@@ -2030,20 +2035,27 @@ footer .der a:hover
 {
     width: 100%;
     height: 250px;
-    margin-bottom: 100px;
+    padding-bottom: 100px;
 }
     .section-1 .texto-principal .t1 .letra 
 {
     font-size: 3.2rem;
     font-weight: 800;
 }
+.section-1 .texto-principal .t1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
 .section-1 .texto-principal .t3
 {
     display: flex;
     align-items: center;
     justify-content: center;
-    position: absolute;
-    top: 60px;
+    position: relative;
+    top: 0px;
 }
 .section-1 .texto-principal .t3 .letra 
 {
