@@ -607,8 +607,8 @@ nav .der-2 i:hover
 }
 .section-1 .imagen-central .centro .cont-img
 {
-  width: 70%;
-  height: 80%;
+  width: 350px;
+  height: 500px;
   border-radius: 20px;
   box-shadow: 0 0 40px 20px rgba(0, 0, 0, .3);
   position: relative;
@@ -2022,7 +2022,7 @@ footer .der a:hover
     
     width: 100%;
     height: auto;
-    padding-top:40px;
+    margin-top:50px;
     text-align: center;
     position: relative;
 }
@@ -2034,8 +2034,7 @@ footer .der a:hover
 .section-1 .texto-principal
 {
     width: 100%;
-    height: 250px;
-    padding-bottom: 100px;
+    height: 140px;
     position: relative;
 }
     .section-1 .texto-principal .t1 .letra 
@@ -2065,6 +2064,7 @@ footer .der a:hover
 }
 .section-1 .imagen-central
 {
+    margin-top: 40px;
     height: 100vh; 
     position: relative;
     flex-direction: column;
@@ -2090,12 +2090,12 @@ footer .der a:hover
 .section-1 .imagen-central .der
 {
     width: 80%;
- 
-    height: 100px;
+    height: 200px;
+    margin-bottom: 50px;
 }
 .section-1 .imagen-central .centro .cont-img
 {
-  height: 90%;
+  height: 80%;
   
 }
 .section-1 .imagen-central .izq .cont-text p
@@ -2103,7 +2103,7 @@ footer .der a:hover
     width: 80%;
     height: 70%;
     font-size: .8rem;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 .section-1 .imagen-central .der .cont-text p
 {
