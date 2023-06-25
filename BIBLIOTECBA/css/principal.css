@@ -1968,7 +1968,7 @@ footer .der a:hover
 }
 .section-1
 {
-    height: 800px;
+    height: auto;
     border-bottom: 1px solid #fff;
     margin: 0;
     margin-top: 40px;
@@ -2020,10 +2020,10 @@ footer .der a:hover
 }
     .section-1 .texto
 {
-    padding-top: 100px;
+    
     width: 100%;
     height: auto;
-    margin-top: 30px;
+    padding-top: 100px;
     text-align: center;
     position: relative;
 }
