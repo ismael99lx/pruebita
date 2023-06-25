@@ -1972,7 +1972,6 @@ footer .der a:hover
     border-bottom: 1px solid #fff;
     margin: 0;
     margin-top: 40px;
-    padding-bottom: 40px;
 }
 .section-1 .caja 
 {
@@ -2023,7 +2022,7 @@ footer .der a:hover
     
     width: 100%;
     height: auto;
-    padding-top: 100px;
+    padding-top:40px;
     text-align: center;
     position: relative;
 }
@@ -2091,7 +2090,8 @@ footer .der a:hover
 .section-1 .imagen-central .der
 {
     width: 80%;
-
+ 
+    height: 100px;
 }
 .section-1 .imagen-central .centro .cont-img
 {
@@ -2103,12 +2103,11 @@ footer .der a:hover
     width: 80%;
     height: 70%;
     font-size: .8rem;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 .section-1 .imagen-central .der .cont-text p
 {
     width: 80%;
-    height: 70%;
     font-size: .8rem;
 }
 
