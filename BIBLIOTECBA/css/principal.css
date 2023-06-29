@@ -2042,6 +2042,13 @@ footer .der a:hover
     font-size: 3.2rem;
     font-weight: 800;
 }
+    .section-1 .texto-principal .t1 .letra:active
+{
+    transform: translateY(-1rem);
+    background: -webkit-linear-gradient(120deg,  hsl(19, 90%, 52%), hsl(56, 100%, 50%));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 .section-1 .texto-principal .t1
 {
     display: flex;
@@ -2061,6 +2068,13 @@ footer .der a:hover
 {
     font-size: 3.2rem;
     font-weight: 800;
+}
+    .section-1 .texto-principal .t3 .letra:active
+{
+    transform: translateY(-1rem);
+    background: -webkit-linear-gradient(120deg,  hsl(0, 0%, 100%), hsl(56, 100%, 50%));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .section-1 .imagen-central
 {
